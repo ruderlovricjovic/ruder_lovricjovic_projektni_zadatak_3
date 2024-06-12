@@ -1,0 +1,17 @@
+@charset "utf-8";
+/*CSS Document */
+h1{	font-family:;
+	color:#d0462f;
+	background-color:antiquewhite;
+	font-size:16px;
+	line-height:18px;
+	width:600px;
+	padding:20px;}
+	body{background-color:#d0462f}
+		a{font-family:;
+	color:;
+	background-color:antiquewhite;
+	font-size:16px;
+	line-height:18px;
+	width:170px;
+	padding:20px}
